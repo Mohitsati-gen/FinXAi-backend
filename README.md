@@ -181,7 +181,7 @@ Deployed on **Render** (free tier).
 
 ## 🔗 Related
 
-- 🎨 [FinXAI Frontend](https://github.com/yourusername/finxai-frontend) — React + Vite + Tailwind
+- 🎨 [FinXAI Frontend](https://github.com/Mohitsati-gen/FinXAi-frontend) — React + Vite + Tailwind
 
 ---
 
