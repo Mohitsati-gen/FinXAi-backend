@@ -2,7 +2,7 @@
 
 > Intelligent personal finance backend powering AI-driven insights, automated reporting, and real-time budget alerts.
 
-🌐 **Frontend Live**: [fin-x-ai-frontend-1.vercel.app](https://fin-x-ai-frontend-1.vercel.app)
+🌐 **Frontend Live**: [fin-x-ai-frontend-1.vercel.app](https://finxaivercelapp.vercel.app/)
 
 ---
 
