@@ -51,7 +51,6 @@ app.use(
   serve({
     client: inngest,
     functions: [processRecurringTransaction,triggerRecurringTransactions,checkBudgetAlerts,generateMonthlyReports],
-    isDev: true,
   })
 );
 
